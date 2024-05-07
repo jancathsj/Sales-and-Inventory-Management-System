@@ -1,0 +1,6 @@
+body{
+	min-height: 100%;
+    min-height: -webkit-fill-available;
+	margin: 100px;
+	background-color: #DAF7A6;
+}
