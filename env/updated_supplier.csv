@@ -1,0 +1,10 @@
+supplier_ID,supplier_Name,supplier_ContactPerson,supplier_ContactNum,supplier_Address,supplier_Status
+1,Wilmar,contact-01,09123456789,address-01,1
+2,Wilmar Metal,contact-02,09123456789,address-02,1
+3,JCM88,contact-03,09123456789,address-03,1
+4,Finewood Corp.,contact-04,09123456789,address-04,1
+5,Amao Enterprises Co.,contact-05,09123456789,address-05,1
+6,Topstar,contact-06,09123456789,address-06,1
+7,Amulet,contact-07,09123456789,address-07,1
+8,One Way Merchandising,contact-08,09123456789,address-08,1
+9,Pelflex,contact-09,09123456789,address-09,1
