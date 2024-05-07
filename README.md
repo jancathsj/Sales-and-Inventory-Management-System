@@ -1,5 +1,5 @@
 # Sales and Inventory Management System for a Hardware Store
-This is a Point-of-Sale system that also keeps track of sales, inventory, returned items, suppliers, and purchases from suppliers. This was created by the Slayce group for a CMSC-128 project.
+This is a Point-of-Sale system that keeps track of sales, inventory, returned items, suppliers, and purchases from suppliers. This was created by the Slayce group for a CMSC-128 project.
 
 Additional features:
 -Trash section for deleted items
