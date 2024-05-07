@@ -2,9 +2,9 @@
 This is a Point-of-Sale system that keeps track of sales, inventory, returned items, suppliers, and purchases from suppliers. This was created by the Slayce group for a CMSC-128 project.
 
 Additional features:
--Trash section for deleted items
--Export sale summaries, supplier transactions, and inventory
--Backup database
+*Trash section for deleted items
+*Export sale summaries, supplier transactions, and inventory
+*Backup database
 
 Set-up:
 1. Install xampp. Open xampp and start the Apache and mySQL servers.
